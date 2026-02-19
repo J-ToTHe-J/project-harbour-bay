@@ -362,6 +362,8 @@
 "Assets/Scripts/Player/PlayerData.cs"
 "Assets/Scripts/Player/PlayerMovement.cs"
 "Assets/Scripts/System/DayManager.cs"
+"Assets/Scripts/System/Game-Mechanics/InventorySlot.cs"
+"Assets/Scripts/System/Game-Mechanics/ItemData.cs"
 "Assets/Scripts/System/Save/SaveController.cs"
 "Assets/Scripts/System/Save/SaveData.cs"
 "Assets/Scripts/System/Save/SaveTrigger.cs"
