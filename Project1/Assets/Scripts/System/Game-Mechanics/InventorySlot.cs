@@ -4,9 +4,9 @@ public class InventorySlot
     public ItemData item;
     public int amount;
 
-    public InventorySlot(ItemData newItem, int newAmount)
+    public InventorySlot(ItemData item, int amount)
     {
-        item = newItem;
-        amount = newAmount;
+        this.item = item;
+        this.amount = amount;
     }
 }
